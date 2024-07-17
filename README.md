@@ -1,2 +1,3 @@
 # ds-ml-insurance-claim-challenge
-La compañía ha recopilado datos históricos de clientes y reclamos y quiere utilizarlos para desarrollar un modelo de aprendizaje automático que pueda predecir si un cliente presentará un reclamo de seguro en el próximo año.
+
+The company has collected historical customer and claims data and wants to use it to develop a machine learning model that can predict whether a customer will file an insurance claim in the next year.
